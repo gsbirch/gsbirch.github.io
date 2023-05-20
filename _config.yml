@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Gage Birchmeier
 
 # Your name to show in the footer
-author: Some Person
+author: Gage Birchmeier
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -49,13 +49,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "gsbirch@umich.edu"
+  github: gsbirch
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,7 +59,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +15023338837
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -94,7 +89,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -106,7 +101,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+# post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 edit_page_button: true
