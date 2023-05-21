@@ -8,7 +8,7 @@ subtitle: A fast paced casual FPS to compete with your friends!
 
 
 ### Changelog
-#### Dev Build 3
+#### Dev Build 3 (unreleased)
 - Gameplay
     - Player movement no longer uses physics
     - Weapons no longer show up on enemies
