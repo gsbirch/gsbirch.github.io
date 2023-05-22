@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Party Shooter
-subtitle: A fast paced casual FPS to compete with your friends!
+subtitle: A fast paced FPS to compete with your friends!
 ---
 
-[Download](https://drive.google.com/file/d/1AuwU0v7oqLcdqL5f5_u8eMEcbnIr37rP/view?usp=sharing)
+![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
+[Download it here!](https://drive.google.com/file/d/1AuwU0v7oqLcdqL5f5_u8eMEcbnIr37rP/view?usp=sharing)
+
+Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 3 (unreleased)
+#### Dev Build 3 (Unreleased)
 - Gameplay
     - Player movement no longer uses physics
     - Weapons no longer show up on enemies
@@ -35,3 +38,13 @@ subtitle: A fast paced casual FPS to compete with your friends!
     - Fixed bug where player's weapon was swapped upon suicide in Random Deathmatch
     - Fixed serialization error with weapons
     - Fixed bug where setting gamemode/map before a client joins would give the client an error
+
+#### Dev Build 2 (Current version)
+- All weapons received a minor buff
+- Each grassy corner of Map1 now has a different material to distingush them
+- Fixed bug where game could not support more than 4 players
+
+#### Dev Build 1
+- Initial Release
+- Fixed bug where players could not add port to connect
+
