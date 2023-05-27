@@ -55,7 +55,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
 #### Shift Manager at Sauerbeck Family Drive-In (June 2019 - August 2021)
 
 ### Hobbies and Interests
-Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I am also a member of the Michigan Marching Band! Fall 2023 will be my 3rd season performing for with the band as part of the horn section! I will also be serving as part of the horn section's student leadership. In my free time, I also enjoy baking, and even won the blue ribbon in my local county fair for my chocolate cake in ![2016](https://oldhamcountyextension.com/2016/08/19/2016-oc-fair-winners/)!
+Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I am also a member of the Michigan Marching Band! Fall 2023 will be my 3rd season performing for with the band as part of the horn section! I will also be serving as part of the horn section's student leadership. In my free time, I also enjoy baking, and even won the blue ribbon in my local county fair for my chocolate cake in [2016](https://oldhamcountyextension.com/2016/08/19/2016-oc-fair-winners/)!
 
 ### Future Goals and Aspirations
 My current goal is to find work as a software engineer in the Louisville area. I am also interested in performing research, with my areas of interest mainly being algorithm design and artifical intelligence. 
