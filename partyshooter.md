@@ -6,14 +6,17 @@ subtitle: A fast paced FPS to play with your friends!
 
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
-[Download it here!](https://drive.google.com/file/d/1AuwU0v7oqLcdqL5f5_u8eMEcbnIr37rP/view?usp=sharing)
+[Download it here!](https://drive.google.com/file/d/1Mj_sqgiLOWDoQjAGttVa4K4uV94rEcQW/view?usp=sharing)
 
 [Roadmap](https://docs.google.com/document/d/1osJVQJvNAARqba06AudZiacfWA5Lcw23Md3RyFO1VB4/edit?usp=sharing)
 
 Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 3 (Unreleased)
+#### Dev Build 3a (Current Version)
+*This is a partial iteration of Dev Build 3*
+- General
+    - Created builds for Mac and Linux!
 - Gameplay
     - Player movement no longer uses physics
     - Weapons no longer show up on enemies
@@ -28,7 +31,7 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
     - Maximum player name length is now 16 characters
     - Entering nothing into the address/port inputs will now default to localhost:7777
 - Weapons
-    - Added the shotgun weapon
+    - Added the melon (shoot a bunch of seeds in a cone!)
     - Pizza now explodes with more projectiles in a sphere
     - Pizza now explodes upon any collision
     - Goo ball from fish and pizza projectile now both kill players
@@ -41,7 +44,7 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
     - Fixed serialization error with weapons
     - Fixed bug where setting gamemode/map before a client joins would give the client an error
 
-#### Dev Build 2 (Current version)
+#### Dev Build 2
 - All weapons received a minor buff
 - Each grassy corner of Map1 now has a different material to distingush them
 - Fixed bug where game could not support more than 4 players
