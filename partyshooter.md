@@ -6,34 +6,37 @@ subtitle: A fast paced FPS to play with your friends!
 
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
-[Download it here!](https://drive.google.com/file/d/1Mj_sqgiLOWDoQjAGttVa4K4uV94rEcQW/view?usp=sharing)
+[Download it here!](https://drive.google.com/file/d/1AuwU0v7oqLcdqL5f5_u8eMEcbnIr37rP/view?usp=sharing)
 
 [Roadmap](https://docs.google.com/document/d/1osJVQJvNAARqba06AudZiacfWA5Lcw23Md3RyFO1VB4/edit?usp=sharing)
 
 Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 3a (Current Version)
-*This is a partial iteration of Dev Build 3*
+#### Dev Build 3 (Current Version)
 - General
-    - Created builds for Mac and Linux!
+    - Added the new map: Ravine!
+    - Added fullscreen mode (press F11!)
 - Gameplay
-    - Player movement no longer uses physics
     - Weapons no longer show up on enemies
     - Player model now changes color to correspond with player color
     - The winner now shows up on the end screen
-    - Added a sensitivity slider (hit ESC to access it!)
+    - Added a settings menu with sensitivity and volume (hit ESC to access it!)
     - Player rotation is now visible for all clients
     - Player model now strafes left/right and walks backwards
+    - Players now give off a footstep sound effect while moving
+    - All weapons now have custom kill and death messages
+    - Made the notification toast a little smaller
 - Lobby
     - The host can now modify the respawn time on the lobby screen
     - Player list shows up in lobby for all players
     - Maximum player name length is now 16 characters
     - Entering nothing into the address/port inputs will now default to localhost:7777
 - Weapons
-    - Added the melon (shoot a bunch of seeds in a cone!)
+    - Added the melon slice (shoot a bunch of seeds in a cone!)
     - Pizza now explodes with more projectiles in a sphere
     - Pizza now explodes upon any collision
+    - Pizza has a custom kill sound effect
     - Goo ball from fish and pizza projectile now both kill players
     - Meteor from meteor staff now explodes in a large radius upon any collision
     - Increased force of Playing Card projectile
@@ -43,6 +46,8 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
     - Fixed bug where player's weapon was swapped upon suicide in Random Deathmatch
     - Fixed serialization error with weapons
     - Fixed bug where setting gamemode/map before a client joins would give the client an error
+    - Fixed bug that allowed host to start game before map and gamemode were set
+    - Fixed issue where moving to fast could cause you to collide with your own projectiles
 
 #### Dev Build 2
 - All weapons received a minor buff
