@@ -13,7 +13,16 @@ subtitle: A fast paced FPS to play with your friends!
 Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 3 (Current Version)
+#### Dev Build 3.1 (Current Version)
+- Sensitivity options are now finer
+- Shifted content of lobby screen around so all player names can be seen
+- Removed Ravine's moving platforms and exchanged them with jump pads
+- Unaliving yourself with goop gun/pizza/meteor staff now subtracts a point
+- Increased the fire rate for the playing card
+- Decreased the spread of the seeds from the melon slice
+- Slowed fire rate of meteor staff (this is a temporary fix, the meteor staff will recieve a larger nerf later)
+- Fixed duplicate spawn point on Ravine
+#### Dev Build 3
 - General
     - Added the new map: Ravine!
     - Added fullscreen mode (press F11!)
