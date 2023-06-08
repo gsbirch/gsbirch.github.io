@@ -6,14 +6,27 @@ subtitle: A fast paced FPS to play with your friends!
 
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
-[Download it here!](https://drive.google.com/file/d/1AuwU0v7oqLcdqL5f5_u8eMEcbnIr37rP/view?usp=sharing)
+### Downloads
+[Windows](https://drive.google.com/file/d/1zaDRYMWVcESH-QZCytY5iF5bqW_T2vpD/view?usp=sharing)
+[Mac](https://drive.google.com/file/d/1HnzjoMeeH29eW4AEVKfHxnpLjWEIHmcN/view?usp=sharing)
+[Linux](https://drive.google.com/file/d/1CGiAzM6yHdANRFIKXYNHms--IVTjcQXl/view?usp=sharing)
 
 [Roadmap](https://docs.google.com/document/d/1osJVQJvNAARqba06AudZiacfWA5Lcw23Md3RyFO1VB4/edit?usp=sharing)
 
 Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 3.1 (Current Version)
+#### Dev Build 4a (Current Version)
+*This is an unfinished version of dev build 4*
+- You can now pause the game at any time, so long as you have joined a game
+- The meteor now accelerates towards its target rather than having a constant velocity
+- Removed the Pizza weapon (Good night sweet prince)
+- Added the Shark Slapper (Chase your enemies and smack them with the force of a shark!)
+- Added the Arcane Bow (Disintegrate your enemies with this hitscan bow!)
+- Fixed a bug where the game ending during a player's death cooldown would let that player move in the lobby
+- Fixed a bug where the host did not gain control of their mouse after a round
+
+#### Dev Build 3.1
 - Sensitivity options are now finer
 - Shifted content of lobby screen around so all player names can be seen
 - Removed Ravine's moving platforms and exchanged them with jump pads
@@ -22,6 +35,7 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
 - Decreased the spread of the seeds from the melon slice
 - Slowed fire rate of meteor staff (this is a temporary fix, the meteor staff will recieve a larger nerf later)
 - Fixed duplicate spawn point on Ravine
+
 #### Dev Build 3
 - General
     - Added the new map: Ravine!
