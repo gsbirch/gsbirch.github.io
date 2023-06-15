@@ -65,20 +65,20 @@ Throughout my education and personal experiences, I have gained proficiency in m
 
 #### Digitally Enhanced Exhibit Program (DEEP)
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-right: 10px">
     <img src="https://i.ibb.co/JKmvFxB/MDP.jpg" alt="A group of students stand around a tablet displaying the app they developed">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-left: 10px">
     I am currently a part of a multidisciplinary design team at the university! We are working in collaboration with TorranceLearning to develop an android application for DEEP at Ann Arbor Hands-On Museum. I am responsible for loading museum developed content into the app through WebView and creating communication channels for the app to respond to bluetooth beacon signals. You can learn more about the project <a href="https://mdp.engin.umich.edu/sponsor_teams/aahom-23/">here</a>!
   </div>
 </div>
 
 #### Party Shooter
 <div style="display: flex;">
-  <div style="flex: 1;">
-    IMAGE IMAGE IMAGE IMAGE IMAGE
+  <div style="flex: 1; padding-right: 10px">
+    <img src="https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png" alt="A screenshot of Party Shooter in action">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-left: 10px">
     Party Shooter is a video game I have developed in my free time using Unity! The video game supports multiplayer with one computer acting as a host. The game contains fast paced first person gameplay, with players competing to outscore their opponents! You can check it out <a href="https://gsbirch.github.io/partyshooter">here</a>!
   </div>
 </div>
