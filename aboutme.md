@@ -79,7 +79,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
     IMAGE IMAGE IMAGE IMAGE IMAGE
   </div>
   <div style="flex: 1;">
-    Party Shooter is a video game I have developed in my free time using Unity! The video game supports multiplayer with one computer acting as a host. The game contains fast paced first person gameplay, with players competing to outscore their opponents! You can check it out <a href="https://gsbirch.github.io/party-shooter">here</a>!
+    Party Shooter is a video game I have developed in my free time using Unity! The video game supports multiplayer with one computer acting as a host. The game contains fast paced first person gameplay, with players competing to outscore their opponents! You can check it out <a href="https://gsbirch.github.io/partyshooter">here</a>!
   </div>
 </div>
 
