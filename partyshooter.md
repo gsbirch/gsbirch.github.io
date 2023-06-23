@@ -22,30 +22,30 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
 
 Dev Build 4 aims to massively increase the content of the game thanks to Dev Build 3 working out a lot of the issues with earlier builds.
 
-General
-- You can now pause the game anytime after hosting/joining.
-- Reworked the pause menu to stop sliders from changing length
-- Made notification and weapon button text a little bit smaller
-- The host can now print an audit log of the game (press "Dump Log" on the pause menu)
-- Added a shuffle mode which randomly sets a gamemode and map and begins the game
-Maps
-- Removed Map1 from the game
-- Added the new map Archipelago
-- Added the new map Cavern
-Weapons
-- Reduced the Playing Card's fire rate from 0.45 to 0.6
-- The Playing Card now autofires
-- Removed the Pizza from the game (Good night, sweet prince)
-- The Goop Fish's projectiles now change color for the owner to indicate it's theirs
-- The meteor now accelerates towards its target rather than having a constant velocity
-- Added the Shark Slapper (Swing and hit your foes with a shark!)
-- Added the Arcane Bow (Turn your foes into dust with this hitscan weapon!)
-- Added the Exploding Pies (Throw pies all over the map and detonate them simultaneously!)
-- Added the Treasure Chest (Fill it full of treasure and spew it all over your foes!)
-Fixes
-- Fixed an issue where the host's cursor was not enabled after the game ended
-- Fixed an issue where lighting was not applied correctly to jump pads
-- Fixed an issue where Goop Fish puddles would float above the ground
+- General
+    - You can now pause the game anytime after hosting/joining.
+    - Reworked the pause menu to stop sliders from changing length
+    - Made notification and weapon button text a little bit smaller
+    - The host can now print an audit log of the game (press "Dump Log" on the pause menu)
+    - Added a shuffle mode which randomly sets a gamemode and map and begins the game
+- Maps
+    - Removed Map1 from the game
+    - Added the new map Archipelago
+    - Added the new map Cavern
+- Weapons
+    - Reduced the Playing Card's fire rate from 0.45 to 0.6
+    - The Playing Card now autofires
+    - Removed the Pizza from the game (Good night, sweet prince)
+    - The Goop Fish's projectiles now change color for the owner to indicate it's theirs
+    - The meteor now accelerates towards its target rather than having a constant velocity
+    - Added the Shark Slapper (Swing and hit your foes with a shark!)
+    - Added the Arcane Bow (Turn your foes into dust with this hitscan weapon!)
+    - Added the Exploding Pies (Throw pies all over the map and detonate them simultaneously!)
+    - Added the Treasure Chest (Fill it full of treasure and spew it all over your foes!)
+- Fixes
+    - Fixed an issue where the host's cursor was not enabled after the game ended
+    - Fixed an issue where lighting was not applied correctly to jump pads
+    - Fixed an issue where Goop Fish puddles would float above the ground
 
 #### Dev Build 3.1
 
@@ -107,5 +107,5 @@ Dev Build 2 was a small patch to fix minor issues in Dev Build 1
 
 #### Dev Build 1
 - Initial Release
-- Fixed bug where players could specify port to connect to
+- Fixed bug where players could not specify port to connect to
 
