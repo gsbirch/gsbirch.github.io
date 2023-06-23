@@ -14,7 +14,7 @@ subtitle: A fast paced FPS to play with your friends!
 
 [Roadmap](https://docs.google.com/document/d/1osJVQJvNAARqba06AudZiacfWA5Lcw23Md3RyFO1VB4/edit?usp=sharing)
 
-Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
+Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a fish that leaves poisonous puddles on the ground or a staff that summons meteors from the sky. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
 
