@@ -7,7 +7,6 @@ subtitle: A fast paced FPS to play with your friends!
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
 ### Downloads
-*These are outdated versions, and will be updated later*
 [Windows](https://drive.google.com/file/d/1zaDRYMWVcESH-QZCytY5iF5bqW_T2vpD/view?usp=sharing)
 [Mac](https://drive.google.com/file/d/1HnzjoMeeH29eW4AEVKfHxnpLjWEIHmcN/view?usp=sharing)
 [Linux](https://drive.google.com/file/d/1CGiAzM6yHdANRFIKXYNHms--IVTjcQXl/view?usp=sharing)
