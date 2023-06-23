@@ -7,6 +7,7 @@ subtitle: A fast paced FPS to play with your friends!
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
 ### Downloads
+*These are outdated versions, and will be updated later*
 [Windows](https://drive.google.com/file/d/1zaDRYMWVcESH-QZCytY5iF5bqW_T2vpD/view?usp=sharing)
 [Mac](https://drive.google.com/file/d/1HnzjoMeeH29eW4AEVKfHxnpLjWEIHmcN/view?usp=sharing)
 [Linux](https://drive.google.com/file/d/1CGiAzM6yHdANRFIKXYNHms--IVTjcQXl/view?usp=sharing)
@@ -16,17 +17,38 @@ subtitle: A fast paced FPS to play with your friends!
 Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies of up to 8 players can compete in various game modes such as deathmatch or king of the hill. They can score points by hitting other players with wacky weapons such as a pizza that explodes into smaller slices or a fish that leaves poisonous puddles on the ground. Party Shooter is currently in *pre-alpha*, with Dev Builds being released as they are developed. 
 
 ### Changelog
-#### Dev Build 4a (Current Version)
-*This is an unfinished version of dev build 4*
-- You can now pause the game at any time, so long as you have joined a game
+
+#### Dev Build 4 (Current Version)
+
+Dev Build 4 aims to massively increase the content of the game thanks to Dev Build 3 working out a lot of the issues with earlier builds.
+
+General
+- You can now pause the game anytime after hosting/joining.
+- Reworked the pause menu to stop sliders from changing length
+- Made notification and weapon button text a little bit smaller
+- The host can now print an audit log of the game (press "Dump Log" on the pause menu)
+- Added a shuffle mode which randomly sets a gamemode and map and begins the game
+Maps
+- Removed Map1 from the game
+- Added the new map Archipelago
+- Added the new map Cavern
+Weapons
+- Reduced the Playing Card's fire rate from 0.45 to 0.6
+- The Playing Card now autofires
+- Removed the Pizza from the game (Good night, sweet prince)
+- The Goop Fish's projectiles now change color for the owner to indicate it's theirs
 - The meteor now accelerates towards its target rather than having a constant velocity
-- Removed the Pizza weapon (Good night sweet prince)
-- Added the Shark Slapper (Chase your enemies and smack them with the force of a shark!)
-- Added the Arcane Bow (Disintegrate your enemies with this hitscan bow!)
-- Fixed a bug where the game ending during a player's death cooldown would let that player move in the lobby
-- Fixed a bug where the host did not gain control of their mouse after a round
+- Added the Shark Slapper (Swing and hit your foes with a shark!)
+- Added the Arcane Bow (Turn your foes into dust with this hitscan weapon!)
+- Added the Exploding Pies (Throw pies all over the map and detonate them simultaneously!)
+- Added the Treasure Chest (Fill it full of treasure and spew it all over your foes!)
+Fixes
+- Fixed an issue where the host's cursor was not enabled after the game ended
+- Fixed an issue where lighting was not applied correctly to jump pads
+- Fixed an issue where Goop Fish puddles would float above the ground
 
 #### Dev Build 3.1
+
 - Sensitivity options are now finer
 - Shifted content of lobby screen around so all player names can be seen
 - Removed Ravine's moving platforms and exchanged them with jump pads
@@ -37,6 +59,9 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
 - Fixed duplicate spawn point on Ravine
 
 #### Dev Build 3
+
+Dev Build 3 focuses less on content and more on ensuring the game is stable and gives little errors to the players.
+
 - General
     - Added the new map: Ravine!
     - Added fullscreen mode (press F11!)
@@ -73,11 +98,14 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
     - Fixed issue where moving to fast could cause you to collide with your own projectiles
 
 #### Dev Build 2
+
+Dev Build 2 was a small patch to fix minor issues in Dev Build 1
+
 - All weapons received a minor buff
 - Each grassy corner of Map1 now has a different material to distingush them
 - Fixed bug where game could not support more than 4 players
 
 #### Dev Build 1
 - Initial Release
-- Fixed bug where players could not add port to connect
+- Fixed bug where players could specify port to connect to
 
