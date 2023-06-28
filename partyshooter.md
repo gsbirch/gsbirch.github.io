@@ -7,7 +7,13 @@ subtitle: A fast paced FPS to play with your friends!
 ![A screenshot of Party Shooter in action](https://i.ibb.co/nDJcCK4/Screenshot-from-2023-05-21-23-00-23.png)
 
 ### Downloads
+
+Dev Build 4.1:
+
 [Windows](https://drive.google.com/file/d/1zaDRYMWVcESH-QZCytY5iF5bqW_T2vpD/view?usp=sharing)
+
+Dev Build 4:
+
 [Mac](https://drive.google.com/file/d/1HnzjoMeeH29eW4AEVKfHxnpLjWEIHmcN/view?usp=sharing)
 [Linux](https://drive.google.com/file/d/1CGiAzM6yHdANRFIKXYNHms--IVTjcQXl/view?usp=sharing)
 
@@ -17,7 +23,19 @@ Party Shooter is a fast paced FPS developed in Unity! In Party Shooter, lobbies 
 
 ### Changelog
 
-#### Dev Build 4 (Current Version)
+#### Dev Build 4.1 (Current Version)
+- Removed the lighting on Cavern and Ravine and exchanged them for a directional light
+- Removed collision box from torches
+- Corrected out of bounds regions on Ravine
+- Decreased the cooldown on the treasure chest
+- Changed the crosshair design
+- Fixed an error with weapons despawining
+- Fixed an error where melon projectiles shot in a straight line when looking in a certain direction
+- Fixed an error where treasure chest would incorrectly modify a player's speed
+- Fixed an error where a player was able to move while the countdown runs for a new game
+- Fixed an error where a player could hit themself with the arcane bow
+
+#### Dev Build 4
 
 Dev Build 4 aims to massively increase the content of the game thanks to Dev Build 3 working out a lot of the issues with earlier builds.
 
