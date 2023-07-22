@@ -27,8 +27,10 @@ I am currently in my 4th year of undergraduate studies at the University of Mich
     Other Skills:
     <ul>
       <li>Discrete Mathematics</li>
-      <li>Linear and Abstract Algebra</li>
-      <li>Advanced Calculus and Real Analysis</li>
+      <li>Linear Algebra</li>
+      <li>Abstract Algebra</li>
+      <li>Advanced Calculus</li>
+      <li>Real Analysis</li>
       <li>Technical Communication</li>
       <li>Professionalim in Engineering</li>
     </ul>
@@ -88,7 +90,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
 
 The University of Michigan runs the Summer Undergraduate Research in Engineering (SURE) program each summer. This program employs students to work under doctorate students and professors to assist them in their research.  
 
-In the summer of 2023, I recieved the honor of getting the opportunity to work under Professor Anhong Guo to assist doctorate student Gregory Croisdale with his project "Deckflow". This program offers an intuitive way to use generative image models such as DALL-E with an interface inspired by playing cards. I helped develop the program by developing the interface using React.js and using gesture libraries to handle user input such as scrolling or clicking and dragging.
+In the summer of 2023, I recieved the honor of working under Professor Anhong Guo to assist doctorate student Gregory Croisdale with his project "Deckflow". This program offers an intuitive way to use generative image models such as DALL-E with an interface inspired by playing cards. I helped develop the program by developing the interface using React.js and using gesture libraries to handle user input such as scrolling or clicking and dragging. I also developed the back end ASP.NET server that calls and manages generative models and formats their output for the front end to display.
 
 #### iD Tech Summer Camp Instructor (Summer 2022)
 
@@ -106,4 +108,4 @@ The highest promotion I receieved while working at the Sauerbeck Family Drive-In
 Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I am also a member of the Michigan Marching Band! Fall 2023 will be my 3rd season performing for with the band as part of the horn section! I will also be serving as part of the horn section's student leadership. In my free time, I also enjoy baking, and even won the blue ribbon in my local county fair for my chocolate cake in [2016](https://oldhamcountyextension.com/2016/08/19/2016-oc-fair-winners/)!
 
 ### Future Goals and Aspirations
-My current goal is to find work as a software engineer in the Louisville area. I am also interested in performing research, with my areas of interest mainly being algorithm design and artifical intelligence. 
+My current goal is to find a university to continue my studies in Computer Science and earn a PhD. During and beyond doctoral studies, I am looking to do research in programming languages, algorithm design, artifical intelligence, and Computer Science education.
