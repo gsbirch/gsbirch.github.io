@@ -32,7 +32,7 @@ I am currently in my 2nd year of graduate studies at the University of Kentucky 
       <li>Advanced Calculus</li>
       <li>Real & Numerical Analysis</li>
       <li>Technical Communication</li>
-      <li>Professionalim in Engineering</li>
+      <li>Professionalism in Engineering</li>
     </ul>
   </div>
 </div>
