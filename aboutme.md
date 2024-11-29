@@ -4,23 +4,23 @@ title: About me
 ---
 
 
-Hello! My name is Gage Birchmeier, and I go by they/them/theirs pronouns. I currently study Computer Science at the University of Michigan, expecting to graduate in December 2023. I am also a member of the Michigan Marching Band! Outside of school, I enjoy playing tabletop games and programming video games.
+Hello! My name is Gage Birchmeier, and I go by they/them/theirs pronouns. I currently study Computer Science at the University of Kentucky. I completed my Bachelor's Degree from the University of Michigan in December 2023. Outside of school, I enjoy playing tabletop games and programming video games.
 
 ### Education
 
-I am currently in my 4th year of undergraduate studies at the University of Michigan College of Engineering in Ann Arbor. I am expected to graduate in December 2023 with a major in Computer Science and a minor in Mathematics. Listed below is some of the skills I have obtained through my class work:
+I am currently in my 2nd year of graduate studies at the University of Kentucky Graduate School in Lexington. I graduated in December 2023 from the University of Michigan with a major in Computer Science and a minor in Mathematics. Listed below is some of the skills I have obtained through my class work at both universities:
 
 <div style="display: flex;">
   <div style="flex: 1;">
     Computer Science Skills:
     <ul>
-      <li>Data Structures and Algorithms</li>
-      <li>Architecture</li>
-      <li>Theory</li>
-      <li>Full Stack Web Development</li>
-      <li>Advanced Object-Oriented and Functional Programming</li>
-      <li>Advanced Algorithm Design</li>
       <li>Artificial Intelligence</li>
+      <li>Narrative Intelligence</li>
+      <li>Full Stack Web Development</li>
+      <li>Cloud Development</li>
+      <li>Advanced Algorithm Design</li>
+      <li>Data Structures & Algorithms</li>
+      <li>Advanced Object-Oriented & Functional Programming</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -30,14 +30,14 @@ I am currently in my 4th year of undergraduate studies at the University of Mich
       <li>Linear Algebra</li>
       <li>Abstract Algebra</li>
       <li>Advanced Calculus</li>
-      <li>Real Analysis</li>
+      <li>Real & Numerical Analysis</li>
       <li>Technical Communication</li>
       <li>Professionalim in Engineering</li>
     </ul>
   </div>
 </div>
 
-I am currently working on the Digitally Enhanced Exhibit Program (DEEP) with Ann Arbor Hands-On Museum and TorranceLearning as part of my senior capstone. I am also employed this summer as a research intern in the Human Artificial Intelligence Lab under Dr. Anhong Guo.
+I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning heuristics.
 
 ### Technical Skills
 Throughout my education and personal experiences, I have gained proficiency in many different programming languages and frameworks. Here are some of the main ones that I have experience with:
@@ -55,6 +55,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
   <div style="flex: 1;">
     Frameworks and IDEs:
     <ul>
+      <li>Sabre Narrative Planner</li>
       <li>Unity Game Engine</li>
       <li>Flask</li>
       <li>React.js</li>
@@ -71,7 +72,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
     <img src="https://i.ibb.co/JKmvFxB/MDP.jpg" alt="A group of students stand around a tablet displaying the app they developed">
   </div>
   <div style="flex: 1; padding-left: 10px">
-    I am currently a part of a multidisciplinary design team at the university! We are working in collaboration with TorranceLearning to develop an android application for DEEP at Ann Arbor Hands-On Museum. I am responsible for loading museum developed content into the app through WebView and creating communication channels for the app to respond to bluetooth beacon signals. You can learn more about the project <a href="https://mdp.engin.umich.edu/sponsor_teams/aahom-23/">here</a>!
+    During my final year at University of Michigan, I was a part of a multidisciplinary design team. We worked in collaboration with TorranceLearning to develop an android application for DEEP at Ann Arbor Hands-On Museum. I was responsible for loading museum developed content into the app through WebView and creating communication channels for the app to respond to bluetooth beacon signals. You can learn more about the project. The project was presented at the 2024 Capstone Design Conference! <a href="https://mdp.engin.umich.edu/sponsor_teams/aahom-23/">here</a>!
   </div>
 </div>
 
@@ -86,6 +87,13 @@ Throughout my education and personal experiences, I have gained proficiency in m
 </div>
 
 ### Work Experience
+
+#### Teaching Assistant at U of K (Fall 2024)
+
+I am currently employed under a Teaching Assistanceship at the Univerity of Kentucky for my PhD. 
+
+In the Fall semester of 2024, I helped a professor with teaching CS 275: Discrete Mathematics at the university. I was responsible for grading homework and exams while giving helpful feedback to students. I was also responsible for holding office hours and running two recitation sections. During these, I would guide students though various practice problems, leaving them with a deeper understanding of the class content.
+
 #### Research Intern at U of M (Summer 2023)
 
 The University of Michigan runs the Summer Undergraduate Research in Engineering (SURE) program each summer. This program employs students to work under doctorate students and professors to assist them in their research.  
@@ -105,7 +113,7 @@ The Sauerbeck Family Drive-In is a Drive-In Movie Theater located near Louisvill
 The highest promotion I receieved while working at the Sauerbeck Family Drive-In was the position of Shift Manager. I became responsible for delegating the tasks necessary for the place to operate to the other employees working. I also became responsible for ensuring the facility was ready for opening and closing each day I worked.
 
 ### Hobbies and Interests
-Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I am also a member of the Michigan Marching Band! Fall 2023 will be my 3rd season performing for with the band as part of the horn section! I will also be serving as part of the horn section's student leadership. In my free time, I also enjoy baking, and even won the blue ribbon in my local county fair for my chocolate cake in [2016](https://oldhamcountyextension.com/2016/08/19/2016-oc-fair-winners/)!
+Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I was also a member of the Michigan Marching Band for three seasons as a part of the mellophone section! In my free time, I also enjoy baking, and won the blue ribbon in my local county fair for my chocolate cake in 2016 and 2024!
 
 ### Future Goals and Aspirations
-My current goal is to find a university to continue my studies in Computer Science and earn a PhD. During and beyond doctoral studies, I am looking to do research in programming languages, algorithm design, artifical intelligence, and Computer Science education.
+I am currently researching interactive narrative and gaining experience as a computer science educator at the University of Kentucky through their computer science doctoral program. After graduation, I aspire to become a professor at a research university, continuing my research as well as teach the next generation of computer scientists.
