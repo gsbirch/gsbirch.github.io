@@ -39,6 +39,8 @@ I am currently in my 2nd year of graduate studies at the University of Kentucky 
 
 I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning heuristics.
 
+In addition, I am currently in the [Graduate Certificate in College Teaching and Learning](https://gradschool.uky.edu/graduate-certificate-college-teaching-learning) program at the University of Kentucky. I am learning to educate students in computer science effectively.
+
 ### Technical Skills
 Throughout my education and personal experiences, I have gained proficiency in many different programming languages and frameworks. Here are some of the main ones that I have experience with:
 
@@ -92,7 +94,11 @@ Throughout my education and personal experiences, I have gained proficiency in m
 
 I am currently employed under a Teaching Assistanceship at the Univerity of Kentucky for my PhD. 
 
-In the Fall semester of 2024, I helped a professor with teaching CS 275: Discrete Mathematics at the university. I was responsible for grading homework and exams while giving helpful feedback to students. I was also responsible for holding office hours and running two recitation sections. During these, I would guide students though various practice problems, leaving them with a deeper understanding of the class content.
+I have ran labs and recitations for the following classes:
+- CS 215: Introduction to Program Design, Abstraction and Problem Solving
+- CS 275: Discrete Mathematics
+
+I helped students complete practice problems, debug their code, and learn good programming fundamentals.
 
 #### Research Intern at U of M (Summer 2023)
 
@@ -116,4 +122,4 @@ The highest promotion I receieved while working at the Sauerbeck Family Drive-In
 Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I was also a member of the Michigan Marching Band for three seasons as a part of the mellophone section! In my free time, I also enjoy baking, and won the blue ribbon in my local county fair for my chocolate cake in 2016 and 2024!
 
 ### Future Goals and Aspirations
-I am currently researching interactive narrative and gaining experience as a computer science educator at the University of Kentucky through their computer science doctoral program. After graduation, I aspire to become a professor at a research university, continuing my research as well as teach the next generation of computer scientists.
+I am currently researching interactive narrative and gaining experience as a computer science educator at the University of Kentucky through their computer science doctoral program and graduate certificate. After graduation, I aspire to become a professor at a research university, continuing my research as well as teach the next generation of computer scientists.
