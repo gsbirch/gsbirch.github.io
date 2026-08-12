@@ -74,7 +74,7 @@ Throughout my education and personal experiences, I have gained proficiency in m
     <img src="https://i.ibb.co/JKmvFxB/MDP.jpg" alt="A group of students stand around a tablet displaying the app they developed">
   </div>
   <div style="flex: 1; padding-left: 10px">
-    During my final year at University of Michigan, I was a part of a multidisciplinary design team. We worked in collaboration with TorranceLearning to develop an android application for DEEP at Ann Arbor Hands-On Museum. I was responsible for loading museum developed content into the app through WebView and creating communication channels for the app to respond to bluetooth beacon signals. You can learn more about the project. The project was presented at the 2024 Capstone Design Conference! <a href="https://mdp.engin.umich.edu/sponsor_teams/aahom-23/">here</a>!
+    During my final year at University of Michigan, I was a part of a multidisciplinary design team. We worked in collaboration with TorranceLearning to develop an android application for DEEP at Ann Arbor Hands-On Museum. I was responsible for loading museum developed content into the app through WebView and creating communication channels for the app to respond to bluetooth beacon signals. The project was presented at the 2024 Capstone Design Conference! You can learn more about the project <a href="https://mdp.engin.umich.edu/sponsor_teams/aahom-23/">here</a>!
   </div>
 </div>
 
