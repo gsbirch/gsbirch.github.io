@@ -37,7 +37,7 @@ I am currently in my 3rd year of graduate studies at the University of Kentucky 
   </div>
 </div>
 
-I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning agents. Most of my publications are associated with this lab, and you can find them [here](https://cs.uky.edu/~sgware/publications/index.php?author=Birchmeier,%20Gage)
+I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning agents. Most of my publications are associated with this lab, and you can find them [here](https://cs.uky.edu/~sgware/publications/index.php?author=Birchmeier,%20Gage).
 
 In addition, I am currently in the [Graduate Certificate in College Teaching and Learning](https://gradschool.uky.edu/graduate-certificate-college-teaching-learning) program at the University of Kentucky. I am learning to educate students in computer science effectively.
 
