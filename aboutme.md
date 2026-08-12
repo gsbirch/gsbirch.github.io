@@ -8,7 +8,7 @@ Hello! My name is Gage Birchmeier, and I go by they/them/theirs pronouns. I curr
 
 ### Education
 
-I am currently in my 2nd year of graduate studies at the University of Kentucky Graduate School in Lexington. I graduated in December 2023 from the University of Michigan with a major in Computer Science and a minor in Mathematics. Listed below is some of the skills I have obtained through my class work at both universities:
+I am currently in my 3rd year of graduate studies at the University of Kentucky Graduate School in Lexington. I graduated in December 2023 from the University of Michigan with a major in Computer Science and a minor in Mathematics. Listed below is some of the skills I have obtained through my class work at both universities:
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -37,7 +37,7 @@ I am currently in my 2nd year of graduate studies at the University of Kentucky 
   </div>
 </div>
 
-I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning heuristics.
+I am currently a member of the [Narrative Intelligence Lab](http://cs.uky.edu/~sgware/) at the University of Kentucky, studying narrative planning agents. Most of my publications are associated with this lab, and you can find them [here](https://cs.uky.edu/~sgware/publications/index.php?author=Birchmeier,%20Gage)
 
 In addition, I am currently in the [Graduate Certificate in College Teaching and Learning](https://gradschool.uky.edu/graduate-certificate-college-teaching-learning) program at the University of Kentucky. I am learning to educate students in computer science effectively.
 
@@ -90,7 +90,17 @@ Throughout my education and personal experiences, I have gained proficiency in m
 
 ### Work Experience
 
-#### Teaching Assistant at U of K (Fall 2024)
+#### Research Assistant at U of K (Fall 2026)
+
+This upcoming fall, I will work as a research assistant for my advisor, Dr. Stephen Ware. More details will be posted here in the coming months!
+
+#### Instructor of Record at U of K (Summer 2026)
+
+This past summer, I was given the honor and privilege of independently teaching a section of CS 215: Introduction to Program Design, Abstraction and Problem Solving. I prepared lecture slides, assignments, textbook readings, and exams. My students learned about programming and problem solving in C++ and learned how to apply these new skills to a variety of problems.
+
+By teaching this section, I will receive credit for a practicum as part of my Graduate Certificate in College Teaching and Learninng. I will also draft a teaching portfolio, which may be uploaded here in the coming months.
+
+#### Teaching Assistant at U of K (Fall 2024 - Spring 2026)
 
 I am currently employed under a Teaching Assistanceship at the Univerity of Kentucky for my PhD. 
 
@@ -119,7 +129,7 @@ The Sauerbeck Family Drive-In is a Drive-In Movie Theater located near Louisvill
 The highest promotion I receieved while working at the Sauerbeck Family Drive-In was the position of Shift Manager. I became responsible for delegating the tasks necessary for the place to operate to the other employees working. I also became responsible for ensuring the facility was ready for opening and closing each day I worked.
 
 ### Hobbies and Interests
-Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I was also a member of the Michigan Marching Band for three seasons as a part of the mellophone section! In my free time, I also enjoy baking, and won the blue ribbon in my local county fair for my chocolate cake in 2016 and 2024!
+Outside of work and education, I am an avid tabletop game player! I often meet with friends to play Dungeons and Dragons as well as many other board games. I was also a member of the Michigan Marching Band for three seasons as a part of the mellophone section! In my free time, I also enjoy baking, and have won 2 blue ribbons in my local county fair for my chocolate cake!
 
 ### Future Goals and Aspirations
 I am currently researching interactive narrative and gaining experience as a computer science educator at the University of Kentucky through their computer science doctoral program and graduate certificate. After graduation, I aspire to become a professor at a research university, continuing my research as well as teach the next generation of computer scientists.
